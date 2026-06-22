@@ -1,5 +1,5 @@
 ### 1. Executive Summary
-No meeting transcript was provided for analysis. As a result, there is no main purpose or outcome to report. The meeting transcript is empty. There are no details to summarize.
+No meeting transcript was provided for analysis.
 
 ### 2. Key Decisions Made
 - No formal decisions were recorded
@@ -8,9 +8,7 @@ No meeting transcript was provided for analysis. As a result, there is no main p
 
 
 ### 4. Critical Highlights & Quotes
-- No meeting transcript was provided
-- There are no important points to highlight
-- The meeting transcript is empty
+- No meeting transcript was available for extraction
 
 ### 5. Sentiment & Tone
-Neutral
+Neutral due to lack of meeting transcript
