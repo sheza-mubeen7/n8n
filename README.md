@@ -1,5 +1,5 @@
 ### 1. Executive Summary
-There is no meeting transcript provided to analyze. Therefore, no summary can be generated.
+No meeting transcript was provided for analysis. Therefore, no main purpose or outcome can be determined. The meeting transcript is necessary to extract structured information. Without the transcript, no analysis can be performed.
 
 ### 2. Key Decisions Made
 - No formal decisions were recorded
@@ -8,7 +8,7 @@ There is no meeting transcript provided to analyze. Therefore, no summary can be
 
 
 ### 4. Critical Highlights & Quotes
-- No meeting transcript was provided for analysis
+- No meeting transcript was provided
 
 ### 5. Sentiment & Tone
-Neutral due to lack of information
+Neutral
